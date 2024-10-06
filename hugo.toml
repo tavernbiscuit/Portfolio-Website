@@ -10,6 +10,12 @@ theme = "gokarna"
 enableRobotsTXT = true
 
 [menu]
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+
   [[menu.main]]
     # Unique identifier for a menu item
     identifier = "posts"
@@ -26,12 +32,6 @@ enableRobotsTXT = true
     name = "Posts"
 
     # Weights are used to determine the ordering
-    weight = 1
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
     weight = 2
 
   [[menu.main]]
@@ -74,11 +74,11 @@ enableRobotsTXT = true
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
   # or "" (do not display, default option)
-  # showPostsOnHomePage = ""
+  showPostsOnHomePage = "popular"
 
   # Defines number of posts displayed on homepage if showPostsOnHomePage option is set
   # Default value is 4
-  # numberPostsOnHomePage = 4
+  numberPostsOnHomePage = 1
 
   # Footer text
   footer = "Lange IT Solutions"

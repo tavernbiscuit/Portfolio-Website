@@ -16,18 +16,18 @@
       <description>&lt;h1 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h1&gt;&#xA;&lt;p&gt;This is a test!&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/index-about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/index-about/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-lange-it-solutions&#34;&gt;Welcome to Lange IT Solutions&lt;/h1&gt;&#xA;&lt;p&gt;My name is &lt;strong&gt;Evan Lange&lt;/strong&gt; and I&amp;rsquo;m excited to show you what I&amp;rsquo;ve been working on!&lt;/p&gt;</description>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;this-is-where-all-my-projects-will-appear&#34;&gt;This is where all my projects will appear&lt;/h1&gt;&#xA;&lt;p&gt;I could create pages for my projects that I link here but that do not show up in the main menu.&#xA;&lt;strong&gt;For instance&lt;/strong&gt;: This links to my &lt;a href=&#34;http://localhost:1313/unraid&#34;&gt;Unraid&lt;/a&gt; page!&lt;/p&gt;&#xA;&lt;h1 id=&#34;this-is-to-test-the-table-of-contents&#34;&gt;This is to test the table of contents&lt;/h1&gt;&#xA;&lt;h2 id=&#34;this-is-a-subheader-for-that&#34;&gt;This is a subheader for that&lt;/h2&gt;&#xA;&lt;h1 id=&#34;another-header&#34;&gt;Another header&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-subheader&#34;&gt;A subheader&lt;/h2&gt;&#xA;&lt;h3 id=&#34;nested-header&#34;&gt;Nested header&lt;/h3&gt;&#xA;&lt;p&gt;I may end up doing a page for each project or try to narrow it down a bit more&#xA;I&amp;rsquo;m not sure what the scope will be&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test Page</title>
-      <link>http://localhost:1313/posts/testpage.md/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/testpage.md/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not really sure how this is going to work&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+      <title>Unraid</title>
+      <link>http://localhost:1313/unraid/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/unraid/</guid>
+      <description>&lt;h1 id=&#34;this-page-is-for-all-things-unraid&#34;&gt;This page is for all things Unraid!&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/testpage.md.md",
+                "file": "content/unraid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/testpage.md.md",
+                "file": "content/unraid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/testpage.md.md",
+                "file": "content/unraid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/testpage.md.md"
+                "file": "content/unraid.md"
               }
             }
           }
@@ -148,24 +148,25 @@
   },
   "active": "951d20122823b6df",
   "lastOpenFiles": [
-    "public/posts/testpage.md/index.html",
-    "public/posts/testpage.md",
-    "public/testpage.md/index.html",
-    "public/testpage.md",
-    "public/testpage/index.html",
-    "public/testpage",
-    "content/index-about.md",
-    "content/posts/testpage.md.md",
+    "unraid.md",
+    "content/unraid.md",
+    "content/projects.md",
+    "public/posts/unraid/index.html",
+    "public/posts/unraid",
+    "public/unraid/index.html",
+    "public/unraid",
     "content/posts/first_post.md",
-    "public/untitled/index.html",
-    "public/untitled",
+    "public/posts/projects/index.html",
+    "public/posts/projects",
+    "public/projects/index.html",
+    "public/projects",
+    "content/index-about.md",
+    "public/posts/testpage/index.html",
+    "public/posts/testpage",
+    "public/posts/testpage.md",
+    "public/testpage.md",
     "public/images/Linkedin.jpg",
     "static/images/Linkedin.jpg",
-    "public/images",
-    "static/images",
-    "public/untitled folder",
-    "static/untitled folder",
-    "public/index-about/index.html",
     "content/index-about.md.md",
     "public/index-about.md",
     "content/posts/index-about.md.md",
