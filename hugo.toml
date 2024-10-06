@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "Lange IT Solutions"
+title = "Evan Lange"
 
 theme = "gokarna"
 
@@ -81,4 +81,12 @@ enableRobotsTXT = true
   # numberPostsOnHomePage = 4
 
   # Footer text
-  footer = "The Marauders"
+  footer = "Lange IT Solutions"
+
+  togglePreviousAndNextButtons = "true"
+
+  socialIcons = [
+      {name = "linkedin", url = "https://www.linkedin.com/in/evanlange12/"},
+      {name = "github", url = "https://github.com/tavernbiscuit"},
+      {name = "gmail", url = "mailto:evan@langeitsolutions.com"}
+    ]

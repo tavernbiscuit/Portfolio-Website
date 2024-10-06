@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index-about.md",
+                "file": "content/posts/testpage.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index-about.md",
+                "file": "content/posts/testpage.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index-about.md",
+                "file": "content/posts/testpage.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index-about.md"
+                "file": "content/posts/testpage.md.md"
               }
             }
           }
@@ -146,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa463ba3f2e7d5eb",
+  "active": "951d20122823b6df",
   "lastOpenFiles": [
+    "public/posts/testpage.md/index.html",
+    "public/posts/testpage.md",
+    "public/testpage.md/index.html",
+    "public/testpage.md",
+    "public/testpage/index.html",
+    "public/testpage",
+    "content/index-about.md",
+    "content/posts/testpage.md.md",
+    "content/posts/first_post.md",
+    "public/untitled/index.html",
+    "public/untitled",
     "public/images/Linkedin.jpg",
     "static/images/Linkedin.jpg",
     "public/images",
@@ -155,16 +166,9 @@
     "public/untitled folder",
     "static/untitled folder",
     "public/index-about/index.html",
-    "public/index-about",
-    "content/posts/first_post.md",
-    "content/index-about.md",
     "content/index-about.md.md",
-    "public/index-about.md/index.html",
     "public/index-about.md",
-    "public/posts/first_post/index.html",
-    "public/posts/first_post",
     "content/posts/index-about.md.md",
-    "public/posts/index-about.md/index.html",
     "public/posts/index-about.md",
     "themes/gokarna/README.md"
   ]
